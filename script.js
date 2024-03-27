@@ -21,7 +21,7 @@
 
 }
  
-// 2 For The Above JSOn,iterate over all for loops(for,for in,for of,forEach
+// 2 For The Above JSOn,iterate over all for loops(for,for in,for of,forEach)
 console.log(resume);
 console.log(resume.name);
 console.log(resume.email);
